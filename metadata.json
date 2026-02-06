@@ -1,0 +1,9 @@
+{
+  "name": "Nippon Odyssey",
+  "description": "A futuristic, Japanese-styled travel companion app with AI-powered itinerary planning, image editing, and logistics management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
